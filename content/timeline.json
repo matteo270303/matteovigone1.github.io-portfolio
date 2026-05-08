@@ -1,0 +1,26 @@
+[
+  {
+    "year": "2026",
+    "role": "Posizione attuale",
+    "org": "Azienda / Università",
+    "description": "Placeholder. Descrivi cosa fai adesso, su cosa stai lavorando."
+  },
+  {
+    "year": "2024",
+    "role": "Ruolo precedente",
+    "org": "Azienda / Università",
+    "description": "Placeholder. Descrivi un'esperienza professionale o accademica."
+  },
+  {
+    "year": "2022",
+    "role": "Stage / Tirocinio",
+    "org": "Azienda di esempio",
+    "description": "Placeholder. Aggiungi dettagli su un'esperienza formativa."
+  },
+  {
+    "year": "2020",
+    "role": "Laurea / Diploma",
+    "org": "Università / Scuola",
+    "description": "Placeholder. Studi e formazione."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "Capo",
+  "tagline": "Curioso seriale, costruttore di idee",
+  "bio": [
+    "Ciao, sono Capo. Benvenutə nel mio portfolio voxel — pensa a una piccola casa virtuale dove ogni stanza racconta un pezzo di me.",
+    "Mi occupo di ricerca, scrivo paper, costruisco prototipi e prendo appunti compulsivamente. Nel tempo libero sperimento con grafica 3D, musica e cucina.",
+    "Esplora la casa con WASD oppure usa i tasti 1-8 per teletrasportarti tra le stanze. Clicca sugli oggetti che brillano per scoprire i contenuti."
+  ],
+  "location": "Italia",
+  "email": "matteovigone1@gmail.com",
+  "social": [
+    { "label": "GitHub", "url": "https://github.com/" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/" },
+    { "label": "Twitter", "url": "https://twitter.com/" }
+  ],
+  "avatarColors": {
+    "skin": "#F4C18C",
+    "hair": "#7B5E48",
+    "shirt": "#FF9C8A",
+    "pants": "#3D3346"
+  }
+}

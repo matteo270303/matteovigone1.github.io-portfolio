@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Generative voxel garden",
+    "status": "in-progress",
+    "summary": "Procedural generator che fa crescere piccoli giardini voxel nel browser.",
+    "link": "https://github.com/"
+  },
+  {
+    "title": "ML notebook lab",
+    "status": "completed",
+    "summary": "Raccolta di notebook con esperimenti su reti neurali e dataset open.",
+    "link": "https://github.com/"
+  },
+  {
+    "title": "Mini compilatore",
+    "status": "archived",
+    "summary": "Un compilatore giocattolo per un linguaggio inventato. Solo a scopo didattico.",
+    "link": "https://github.com/"
+  }
+]

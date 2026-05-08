@@ -1,0 +1,8 @@
+[
+  { "name": "Fotografia", "description": "Cerco la luce nelle ore più tranquille della giornata.", "icon": "📷" },
+  { "name": "Cucina", "description": "Esperimenti culinari, soprattutto pasta e dolci.", "icon": "🍝" },
+  { "name": "Trekking", "description": "Montagne, sentieri e mappe topografiche.", "icon": "🥾" },
+  { "name": "Lettura", "description": "Sci-fi, saggi tecnici e narrativa contemporanea.", "icon": "📖" },
+  { "name": "Musica", "description": "Suono la chitarra (male) e ascolto di tutto (bene).", "icon": "🎸" },
+  { "name": "Giochi indie", "description": "Adoro pixel-art, roguelike e puzzle game.", "icon": "🎮" }
+]

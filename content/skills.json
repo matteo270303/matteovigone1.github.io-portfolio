@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Linguaggi",
+    "items": [
+      { "name": "TypeScript", "level": 5 },
+      { "name": "Python", "level": 5 },
+      { "name": "Rust", "level": 3 },
+      { "name": "Go", "level": 3 }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "items": [
+      { "name": "React / Next.js", "level": 5 },
+      { "name": "Three.js / R3F", "level": 4 },
+      { "name": "Tailwind CSS", "level": 5 },
+      { "name": "WebGL / GLSL", "level": 3 }
+    ]
+  },
+  {
+    "category": "Backend & Data",
+    "items": [
+      { "name": "Node.js", "level": 4 },
+      { "name": "PostgreSQL", "level": 4 },
+      { "name": "Docker", "level": 4 },
+      { "name": "GraphQL", "level": 3 }
+    ]
+  },
+  {
+    "category": "AI / ML",
+    "items": [
+      { "name": "PyTorch", "level": 4 },
+      { "name": "Hugging Face", "level": 4 },
+      { "name": "LangChain", "level": 3 }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Voxel Portfolio",
+    "summary": "Questo stesso sito! Un portfolio 3D con stanze esplorabili in tempo reale, costruito con Next.js, React Three Fiber e Tailwind.",
+    "tags": ["Next.js", "Three.js", "React", "Tailwind"],
+    "link": "https://github.com/",
+    "image": "/uploads/projects/portfolio-thumb.svg"
+  },
+  {
+    "title": "Progetto X",
+    "summary": "Placeholder. Sostituisci con un tuo progetto reale: aggiungi descrizione, tag, link e una thumbnail in /public/uploads/projects.",
+    "tags": ["AI", "Python"],
+    "link": "https://github.com/"
+  },
+  {
+    "title": "Progetto Y",
+    "summary": "Placeholder per un progetto open-source o un esperimento personale.",
+    "tags": ["Web", "TypeScript"]
+  },
+  {
+    "title": "Progetto Z",
+    "summary": "Placeholder. Idea per uno strumento data-viz, o un piccolo gioco, o una libreria.",
+    "tags": ["Data", "Visualization"]
+  }
+]

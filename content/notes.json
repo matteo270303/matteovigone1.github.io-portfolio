@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Appunti di Algebra Lineare",
+    "field": "Matematica",
+    "description": "Riassunto dei concetti chiave: matrici, autovalori, decomposizioni.",
+    "pdf": "/uploads/notes/sample-note.pdf"
+  },
+  {
+    "title": "Appunti di Machine Learning",
+    "field": "Computer Science",
+    "description": "Note su regressione, classificazione, reti neurali e tecniche di regolarizzazione.",
+    "pdf": "/uploads/notes/sample-note.pdf"
+  },
+  {
+    "title": "Appunti di Filosofia",
+    "field": "Umanistica",
+    "description": "Tracce di lettura sul pensiero contemporaneo. Placeholder.",
+    "pdf": "/uploads/notes/sample-note.pdf"
+  },
+  {
+    "title": "Appunti di Fisica Quantistica",
+    "field": "Fisica",
+    "description": "Concetti base, postulati, esperimenti mentali. Placeholder.",
+    "pdf": "/uploads/notes/sample-note.pdf"
+  }
+]
