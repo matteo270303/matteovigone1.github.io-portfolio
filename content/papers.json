@@ -15,5 +15,13 @@
     "year": 2024,
     "abstract": "Una panoramica delle tecniche moderne di rendering voxel-based. Placeholder — modifica con il tuo paper reale.",
     "pdf": "/uploads/papers/sample-paper.pdf"
+  },
+  {
+    "title": "SCOPE framework",
+    "authors": ["Vigone et. al."],
+    "venue": "Journal of systems and software",
+    "year": 2026,
+    "abstract": "Automating the end-to-end development of web applications remains a critical challenge in software engineering. Current autonomous-agentic frameworks...",
+    "pdf": "/uploads/papers/_The_Journal_of_Systems_and_Software__SCOPE.pdf"
   }
 ]
