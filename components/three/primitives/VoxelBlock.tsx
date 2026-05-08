@@ -2,6 +2,7 @@
 
 import { forwardRef } from 'react';
 import type { Mesh } from 'three';
+import type { ThreeEvent } from '@react-three/fiber';
 
 interface VoxelBlockProps {
   position: [number, number, number];
@@ -12,9 +13,9 @@ interface VoxelBlockProps {
   emissiveIntensity?: number;
   castShadow?: boolean;
   receiveShadow?: boolean;
-  onClick?: (event: React.PointerEvent) => void;
-  onPointerOver?: (event: React.PointerEvent) => void;
-  onPointerOut?: (event: React.PointerEvent) => void;
+  onClick?: (event: ThreeEvent<MouseEvent>) => void;
+  onPointerOver?: (event: ThreeEvent<PointerEvent>) => void;
+  onPointerOut?: (event: ThreeEvent<PointerEvent>) => void;
 }
 
 /**
